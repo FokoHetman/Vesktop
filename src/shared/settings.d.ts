@@ -30,8 +30,6 @@ export interface Settings {
 
     audio?: {
         workaround?: boolean;
-
-        deviceSelect?: boolean;
         granularSelect?: boolean;
 
         ignoreVirtual?: boolean;
